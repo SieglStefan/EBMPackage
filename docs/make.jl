@@ -19,5 +19,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/SieglStefan/EBMPackage.jl",
-    devbranch="master",
+    devbranch="main",
 )
